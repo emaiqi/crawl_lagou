@@ -1,0 +1,3602 @@
+[
+	{
+		"company": "达美智能",
+		"job": "python开发工程师",
+		"salary": "6k-12k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“五险一金周末双休年底双薪带薪年假员工旅游”"
+	},
+	{
+		"company": "趣丸",
+		"job": "python开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“公司平台好、成长空间大、团队氛围好”"
+	},
+	{
+		"company": "深圳市星际互动娱乐科...",
+		"job": "python开发工程师",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“双休,年底双薪，五险一金”"
+	},
+	{
+		"company": "战神联盟",
+		"job": "python开发工程师",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休,年底双薪,五险一金”"
+	},
+	{
+		"company": "泉涌信息",
+		"job": "Python开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大,团队氛围好,员工福利多”"
+	},
+	{
+		"company": "经传多赢",
+		"job": "量化平台测试工程师-python",
+		"salary": "10k-13k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“成熟团队,快速兑现,技术大牛多,氛围活跃”"
+	},
+	{
+		"company": "广府数字",
+		"job": "Python工程师",
+		"salary": "12k-18k",
+		"experience": "经验不限",
+		"education": "大专",
+		"welfare": "“打造千万级,原始股权,公司核心骨,报酬丰厚”"
+	},
+	{
+		"company": "AAM中国",
+		"job": "Python高级开发工程师",
+		"salary": "15k-26k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“高效团队”"
+	},
+	{
+		"company": "逗号智能",
+		"job": "Python应用工程师（业务系统方向）",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“双休,六险一金,弹性工作,扁平管理”"
+	},
+	{
+		"company": "美亚商旅",
+		"job": "Python开发工程师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险一金,带薪年假,绩效奖金,年底双薪”"
+	},
+	{
+		"company": "淘竹马网",
+		"job": "python开发工程师",
+		"salary": "6k-10k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“公司覆盖面广，高科技”"
+	},
+	{
+		"company": "分子资产",
+		"job": "python量化交易员",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“双休,14薪,绩效,奖金”"
+	},
+	{
+		"company": "要出发",
+		"job": "python开发",
+		"salary": "10k-18k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“互联网旅游 D轮 晋升机会大”"
+	},
+	{
+		"company": "网易",
+		"job": "Python开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“大平台，发展机会，包三餐”"
+	},
+	{
+		"company": "Fordeal",
+		"job": "Python爬虫工程师",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“高额期权,扁平化管理,不打卡”"
+	},
+	{
+		"company": "达美智能",
+		"job": "Python解析工程师",
+		"salary": "7k-12k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“五险一金周末双休年底双薪带薪年假员工旅游”"
+	},
+	{
+		"company": "经传多赢",
+		"job": "数据开发工程师-Python【珠江新城】",
+		"salary": "10k-20k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“高发展公司,成熟团队，福利待遇好”"
+	},
+	{
+		"company": "广府数字",
+		"job": "ＰＨＰ兼 Python 开发工程师",
+		"salary": "13k-18k",
+		"experience": "经验不限",
+		"education": "大专",
+		"welfare": "“打造千万级,原始股权,公司核心骨,报酬丰厚”"
+	},
+	{
+		"company": "网易",
+		"job": "Python开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“福利好，大牛多，平台大，16薪”"
+	},
+	{
+		"company": "广州游爱",
+		"job": "python开发工程师",
+		"salary": "7k-9k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“双休,五险一金,包三餐,年底双薪”"
+	},
+	{
+		"company": "Fordeal",
+		"job": "资深Python爬虫工程师",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化管理,试用期全薪,福利多”"
+	},
+	{
+		"company": "厚建云",
+		"job": "python开发工程师",
+		"salary": "8k-14k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“发展空间大，福利待遇佳，双休，技术大牛”"
+	},
+	{
+		"company": "瑞尔达生物",
+		"job": "python开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“大厂 核心项目 16薪”"
+	},
+	{
+		"company": "V大夫",
+		"job": "Python开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“互联网健康,周末双休,扁平管理,氛围好”"
+	},
+	{
+		"company": "广州连元",
+		"job": "python开发",
+		"salary": "8k-15k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“六险一金、年终奖、双休”"
+	},
+	{
+		"company": "浩鲸科技",
+		"job": "python开发工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“年底绩效奖金丰厚；技术氛围浓郁；阿里系”"
+	},
+	{
+		"company": "恒拓开源",
+		"job": "Python工程师",
+		"salary": "10k-14k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金,周末双休,上市公司,弹性上班”"
+	},
+	{
+		"company": "点亿汽车科技",
+		"job": "python开发工程师要求",
+		"salary": "15k-20k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险、福利待遇高、发展前景好、上升空间快”"
+	},
+	{
+		"company": "极推科技",
+		"job": "Python工程师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“有技术大牛,地铁口上班,午餐补贴,零食”"
+	},
+	{
+		"company": "英荔教育",
+		"job": "Python软件工程师",
+		"salary": "9k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“双休 带薪假 年假 晋升大 妹子多 气氛融洽”"
+	},
+	{
+		"company": "网易",
+		"job": "Python服务端开发工程师",
+		"salary": "20k-35k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“福利待遇 发展前景 大平台”"
+	},
+	{
+		"company": "爪挖科技",
+		"job": "Python开发工程师",
+		"salary": "8k-11k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“弹性 敏捷管理”"
+	},
+	{
+		"company": "天锐医健",
+		"job": "Python工程师",
+		"salary": "7K-9K",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险一金、绩效奖金、年终奖金、晋升机会等”"
+	},
+	{
+		"company": "广州云印",
+		"job": "初级Python开发工程师",
+		"salary": "6k-9k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险餐补下午茶节日福利 周末双休 不打卡”"
+	},
+	{
+		"company": "多益网络",
+		"job": "Python爬虫研发工程师",
+		"salary": "9k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“平台,团队”"
+	},
+	{
+		"company": "嘉为科技",
+		"job": "python开发工程师",
+		"salary": "8k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,年底双薪,绩效奖金,免费培训”"
+	},
+	{
+		"company": "玄武科技",
+		"job": "Python开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“AI实验室；人工智能；广阔职业发展”"
+	},
+	{
+		"company": "肆狼游戏",
+		"job": "Python后端开发工程师",
+		"salary": "5k-10k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“包三餐,弹性上班,带健身房”"
+	},
+	{
+		"company": "广东紫晶",
+		"job": "Python高级开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“购买五险一金，周末双休，有餐补”"
+	},
+	{
+		"company": "王楠科技",
+		"job": "python",
+		"salary": "18k-30k",
+		"experience": "经验5-10年",
+		"education": "大专",
+		"welfare": "“单休，包吃住，双人间，带薪年假，”"
+	},
+	{
+		"company": "创拓信息",
+		"job": "Python程序员学徒",
+		"salary": "1k-2k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“发展空间大”"
+	},
+	{
+		"company": "省省回头车",
+		"job": "python开发工程师(业务方向)",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险齐全 带薪年假 下午茶 节日福利”"
+	},
+	{
+		"company": "菜鸟窝",
+		"job": "Python web开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“免费学技术类课程和来自BAT的讲师交流”"
+	},
+	{
+		"company": "多多村",
+		"job": "Python web开发工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“公司技术大牛云集，技术氛围浓郁”"
+	},
+	{
+		"company": "德利",
+		"job": "Python web高级工程师",
+		"salary": "12k-24k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“Python”"
+	},
+	{
+		"company": "省省回头车",
+		"job": "python开发组长（架构方向）",
+		"salary": "15k-22k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险齐全 带薪年假 下午茶 节日福利”"
+	},
+	{
+		"company": "软博",
+		"job": "Java/Python算法工程师",
+		"salary": "6k-8k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“数据分析方向、五险一金”"
+	},
+	{
+		"company": "辉耀互娱",
+		"job": "python游戏服务器开发工程师",
+		"salary": "6k-12k",
+		"experience": "经验不限",
+		"education": "大专",
+		"welfare": "“六险一金,项目分红,年终双薪,公司包餐”"
+	},
+	{
+		"company": "传智播客广州分校",
+		"job": "Python web讲师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金,带薪年假,年终奖金,公费旅游”"
+	},
+	{
+		"company": "Herely 这里",
+		"job": "Python Web后端开发",
+		"salary": "3k-5k",
+		"experience": "经验应届毕业生",
+		"education": "不限",
+		"welfare": "“老板nic,办公环境好,成长空间大”"
+	},
+	{
+		"company": "千锋互联",
+		"job": "python讲师",
+		"salary": "20k-30k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“公司平台好,面授，高课时费,福利待遇”"
+	},
+	{
+		"company": "立云科技",
+		"job": "django后端工程师",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“快速发展的团队，有机会接触技术挑战”"
+	},
+	{
+		"company": "达美智能",
+		"job": "Python自然语言处理工程师",
+		"salary": "7k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金周末双休年底双薪带薪年假员工旅游”"
+	},
+	{
+		"company": "圆方圆学院",
+		"job": "python讲师",
+		"salary": "25k-50k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“高薪资，高提成。在线教育，高速发展”"
+	},
+	{
+		"company": "佰锐科技",
+		"job": "Python机器学习工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“人工智能、机器学习”"
+	},
+	{
+		"company": "中科汇",
+		"job": "python爬虫",
+		"salary": "10k-12k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“双休，五险一金”"
+	},
+	{
+		"company": "瑞卡连锁租车集团",
+		"job": "Ruby开发（实习）",
+		"salary": "3k-5k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“平台大氛围好，牛人团队，5天7小时工作制”"
+	},
+	{
+		"company": "Fordeal",
+		"job": "大数据开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“试用期全薪,扁平化管理,高额期权”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "大数据开发工程师 (MJ001626)",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“福利多,平台大”"
+	},
+	{
+		"company": "酷狗音乐",
+		"job": "PTBU-数据仓库开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验1年以下",
+		"education": "本科",
+		"welfare": "“年终奖,发展空间大,员工旅游,绩效奖金”"
+	},
+	{
+		"company": "传智播客广州分校",
+		"job": "Python数据挖掘及人工智能机器学习讲师",
+		"salary": "20k-35k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金,带薪年假,年终奖金,公费旅游”"
+	},
+	{
+		"company": "Fordeal",
+		"job": "资深大数据开发工程师",
+		"salary": "30k-60k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化管理,试用期全薪,福利多”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "数据仓库开发工程师 (MJ001030)",
+		"salary": "13k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“平台大,福利多”"
+	},
+	{
+		"company": "巴图鲁公司",
+		"job": "中级大数据开发工程师",
+		"salary": "11k-22k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金；带薪假期；”"
+	},
+	{
+		"company": "西洋志",
+		"job": "技术培训生",
+		"salary": "3k-6k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“不加班，技术氛围浓，发展空间大”"
+	},
+	{
+		"company": "洋葱omall",
+		"job": "大数据开发工程师",
+		"salary": "18k-22k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“福利好、前景大”"
+	},
+	{
+		"company": "酷狗音乐",
+		"job": "PTBU-后端开发工程师（酷群）",
+		"salary": "25k-50k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“餐饮补贴 绩效奖励 双休”"
+	},
+	{
+		"company": "广州丰申网络科技有限公司",
+		"job": "php开发工程师",
+		"salary": "11k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“加速成长,福利多多,逻辑大牛控,周末双休”"
+	},
+	{
+		"company": "西洋汇",
+		"job": "技术培训生",
+		"salary": "3k-6k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“不加班，技术氛围浓，发展空间大”"
+	},
+	{
+		"company": "微咔世纪",
+		"job": "后台PHP开发工程师",
+		"salary": "10k-16k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“六险一金,营养工作餐,萌宠陪伴,下午茶”"
+	},
+	{
+		"company": "经传多赢",
+		"job": "大数据开发工程师【番禺节能科技园】",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化管理 发展空间大 晋升清晰”"
+	},
+	{
+		"company": "广州棒谷科技股份有限公司",
+		"job": "高级测试工程师（偏测试开发）",
+		"salary": "8k-16k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“千万级用户 周末双休 平台大”"
+	},
+	{
+		"company": "Mobvista",
+		"job": "高级前端开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验不限",
+		"education": "大专",
+		"welfare": "“环境舒适，弹性工作时间，包三餐下午茶”"
+	},
+	{
+		"company": "多益网络",
+		"job": "游戏开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验不限",
+		"education": "不限",
+		"welfare": "“互联网百强”"
+	},
+	{
+		"company": "智蓝",
+		"job": "devops开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“外企,五险一金,加班少,周末双休”"
+	},
+	{
+		"company": "Fordeal",
+		"job": "BI开发工程师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“期权激励 绩效奖金 扁平管理 五险一金”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "数据仓库开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,年底双薪,年度旅游”"
+	},
+	{
+		"company": "酷狗音乐",
+		"job": "PTBU-后端开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“年终奖,发展空间大,员工旅游,绩效奖金”"
+	},
+	{
+		"company": "Mobvista",
+		"job": "资深后端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验5-10年",
+		"education": "大专",
+		"welfare": "“绩效奖金,成长空间大,包四餐,五险一金”"
+	},
+	{
+		"company": "汇桔网",
+		"job": "高级容器运维开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“朝阳行业；待遇从优；五险一金”"
+	},
+	{
+		"company": "滴普科技",
+		"job": "资深容器平台开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金 双休 弹性工作 丰富下午茶”"
+	},
+	{
+		"company": "诺米",
+		"job": "ETL开发工程师",
+		"salary": "13k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“新零售”"
+	},
+	{
+		"company": "AI考拉",
+		"job": "数据开发工程师",
+		"salary": "8k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金 周末双休 年度旅游 丰盛下午茶”"
+	},
+	{
+		"company": "多益网络",
+		"job": "游戏研发工程师",
+		"salary": "12k-18k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“五险一金,公司班车,免费三餐,提供住宿”"
+	},
+	{
+		"company": "逗号智能",
+		"job": "GO开发工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“双休,六险一金,弹性工作,扁平管理”"
+	},
+	{
+		"company": "广州市果肉教育科技有限公司",
+		"job": "后台研发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“前瞻性产品 福利待遇好 成长速度快”"
+	},
+	{
+		"company": "万丈金数",
+		"job": "前端工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,绩效奖金,年度旅游”"
+	},
+	{
+		"company": "宇态控股",
+		"job": "网络研发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展平台好,活力团队,技术交流多,领导好”"
+	},
+	{
+		"company": "贝业思",
+		"job": "后端开发工程师",
+		"salary": "9k-13k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据,扁平管理,弹性工作,互联网金融”"
+	},
+	{
+		"company": "三优亲子",
+		"job": "开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休、五险一金、带薪年假、其他补贴”"
+	},
+	{
+		"company": "酷狗音乐",
+		"job": "PTBU-后端开发工程师（云存储）",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大,绩效奖金,年终奖,员工旅游”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "高级开发工程师 （内容抓取） (MJ001572)",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“福利多,平台大”"
+	},
+	{
+		"company": "AI考拉",
+		"job": "后端开发工程师",
+		"salary": "10k-18k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“丰盛下午茶 发展空间大 扁平管理”"
+	},
+	{
+		"company": "富璟科技",
+		"job": "机器人自动化开发工程师（RPA）",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“双休 13薪 年度出游 体检”"
+	},
+	{
+		"company": "奇化网",
+		"job": "高级前端工程师",
+		"salary": "15k-30k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“国际化,大平台,福利齐全,背景雄厚”"
+	},
+	{
+		"company": "西洋汇",
+		"job": "技术培训生",
+		"salary": "3k-6k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“不加班，技术氛围浓，发展空间大”"
+	},
+	{
+		"company": "聚焦网络集团",
+		"job": "算法工程师",
+		"salary": "18k-36k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休，五险一金，带薪休假，年终表彰”"
+	},
+	{
+		"company": "灵机文化",
+		"job": "算法工程师",
+		"salary": "13k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“工作餐，弹性工作，国外游，扁平化管理”"
+	},
+	{
+		"company": "博智林机器人公司",
+		"job": "大数据开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大牛云集，15薪”"
+	},
+	{
+		"company": "奇异果科技",
+		"job": "BI/ETL开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“出国旅游,发展机会大,奖金多”"
+	},
+	{
+		"company": "一手服装批发APP",
+		"job": "BI数据仓库开发工程师",
+		"salary": "12k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“发展空间大 成熟的团队 月流水过亿”"
+	},
+	{
+		"company": "链友科技",
+		"job": "区块链开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“福利奖金丰厚”"
+	},
+	{
+		"company": "洋葱omall",
+		"job": "JAVA开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“福利好、前景大”"
+	},
+	{
+		"company": "擎天柱",
+		"job": "游戏服务端开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“技术大神多 周末双休 包午晚餐 导师机制”"
+	},
+	{
+		"company": "摘星者",
+		"job": "HTML5工程师（微信小程序）",
+		"salary": "9k-13k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“老板nice、有下午茶、”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "内容抓取高级研发工程师 (MJ001285)",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“平台大,福利多”"
+	},
+	{
+		"company": "西洋汇",
+		"job": "技术培训生",
+		"salary": "3k-6k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“不加班，技术氛围浓，发展空间大”"
+	},
+	{
+		"company": "洋葱omall",
+		"job": "中级java工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“团队有活力 发展前景好 各种团建”"
+	},
+	{
+		"company": "广州天游",
+		"job": "php开发工程师",
+		"salary": "12k-16k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金 福利齐全 包三餐 公司旅游”"
+	},
+	{
+		"company": "广州餐道",
+		"job": "大数据开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“发展空间大 扁平化 福利待遇佳 五险一金”"
+	},
+	{
+		"company": "巴图鲁公司",
+		"job": "测试工程师（实习）",
+		"salary": "2k-4k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“周末双休 弹性上班制 扁平化管理”"
+	},
+	{
+		"company": "卓游科技",
+		"job": "中高级PHP开发工程师",
+		"salary": "15k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“团建多”"
+	},
+	{
+		"company": "赛百威",
+		"job": "运维工程师",
+		"salary": "4k-5k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“免费班车,带薪年假,节日福利,生日会”"
+	},
+	{
+		"company": "经传多赢",
+		"job": "高级运维开发工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化管理 发展空间大 晋升清晰”"
+	},
+	{
+		"company": "广州小迈",
+		"job": "中级数据仓库开发工程师",
+		"salary": "18k-28k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“薪酬福利好,年度双薪,六险一金,奖金高”"
+	},
+	{
+		"company": "大圣科技",
+		"job": "技术支持工程师",
+		"salary": "10k-12k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休、补充医保、公司重点项目、包吃”"
+	},
+	{
+		"company": "学府咨询（国际）机构",
+		"job": "系统维护工程师",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,带薪年假,节日福利”"
+	},
+	{
+		"company": "讯码科技",
+		"job": "Golang开发工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“福利全,待遇优,领导好,牛人多”"
+	},
+	{
+		"company": "万丈金数",
+		"job": "算法工程师",
+		"salary": "12k-18k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,绩效奖金,公司旅游”"
+	},
+	{
+		"company": "尚瑜科技",
+		"job": "服务器开发工程师",
+		"salary": "12k-16k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“弹性工作/双休/海外优势产品”"
+	},
+	{
+		"company": "多益网络",
+		"job": "Unity3D开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验不限",
+		"education": "不限",
+		"welfare": "“互联网百强”"
+	},
+	{
+		"company": "金山办公软件",
+		"job": "服务端开发工程师（gz)",
+		"salary": "15k-22k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“免费三餐”"
+	},
+	{
+		"company": "合晟",
+		"job": "软件开发工程师",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“周末双休 五险一金 朝九晚六”"
+	},
+	{
+		"company": "海南济游网络科技有限公司",
+		"job": "中级/高级PHP开发工程师",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“有钱,有产品,有渠道,有发展”"
+	},
+	{
+		"company": "汉全科技",
+		"job": "高级PHP程序员",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“可管理,扁平化,五险一金,团队气氛好”"
+	},
+	{
+		"company": "广东东田教育集团有限公司",
+		"job": "中高级C++工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“优厚待遇,绩效奖金,项目奖金,年终奖”"
+	},
+	{
+		"company": "咏声动漫",
+		"job": "动画制作技术指导（Production TD)",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“双休,五险一金”"
+	},
+	{
+		"company": "合众财富",
+		"job": "前端开发工程师",
+		"salary": "12k-17k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,全勤奖,年底双薪”"
+	},
+	{
+		"company": "智蓝",
+		"job": "大数据开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“外企,五险一金,周末双休,加班少”"
+	},
+	{
+		"company": "联合数据公司",
+		"job": "大数据开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“餐费补贴,公交补贴,五险一金,带薪假期”"
+	},
+	{
+		"company": "博智林机器人公司",
+		"job": "大数据开发工程师",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "硕士",
+		"welfare": "“优质团队/发展前景”"
+	},
+	{
+		"company": "广州市果肉教育科技有限公司",
+		"job": "前端开发工程师",
+		"salary": "8k-16k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“前瞻性产品 精英团队”"
+	},
+	{
+		"company": "北京云族佳科技",
+		"job": "AI开发测试工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金 技术氛围浓厚 大咖云集”"
+	},
+	{
+		"company": "广州天游",
+		"job": "php开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "不限",
+		"welfare": "“五险一金 福利齐全 包三餐 公司旅游”"
+	},
+	{
+		"company": "3K游戏",
+		"job": "高级运维开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“包三餐,海外旅游,氛围环境好,六险一金”"
+	},
+	{
+		"company": "Goat Games",
+		"job": "高级U3D客户端开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“成长快 空间自由 专业度高”"
+	},
+	{
+		"company": "航天精一",
+		"job": "研发总监（技术方向）",
+		"salary": "25k-35k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“项目奖金,年终奖,年薪制,技术岗”"
+	},
+	{
+		"company": "逗号智能",
+		"job": "PHP开发工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“双休,六险一金,弹性工作,扁平管理”"
+	},
+	{
+		"company": "武汉佰钧成技术有限公司",
+		"job": "GO语言开发工程师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“游戏行业”"
+	},
+	{
+		"company": "金十数据",
+		"job": "C++开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“全年15薪,周末双休,带薪年假,公司饭堂”"
+	},
+	{
+		"company": "君海游戏",
+		"job": "大数据开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“优秀平台,双休,包餐,五险一金”"
+	},
+	{
+		"company": "博智林机器人公司",
+		"job": "知识图谱研发工程师",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "硕士",
+		"welfare": "“优质团队/发展前景”"
+	},
+	{
+		"company": "广州思高易",
+		"job": "系统开发工程师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“年终分红 带薪年假”"
+	},
+	{
+		"company": "芹菜科技",
+		"job": "资深后端程序",
+		"salary": "15k-22k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“人工高,领导和善,五险一金,年终绩效”"
+	},
+	{
+		"company": "联奕科技",
+		"job": "云平台研发工程师",
+		"salary": "10k-20k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“五险一金、员工旅游、定期体检”"
+	},
+	{
+		"company": "三七互娱",
+		"job": "运维开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“一对一导师,免费下午茶,S级薪酬”"
+	},
+	{
+		"company": "艾美网络科技",
+		"job": "高级服务器开发工程师",
+		"salary": "18k-30k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“发展空间,专业培训,薪酬福利,气氛好”"
+	},
+	{
+		"company": "魔幻科技",
+		"job": "运维开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“六险一金,周三运动日,年度体检,年度旅游”"
+	},
+	{
+		"company": "瑞卡连锁租车集团",
+		"job": "高级算法工程师",
+		"salary": "18k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“平台大,发展快,好玩有趣,学习型团队”"
+	},
+	{
+		"company": "亚美",
+		"job": "测试开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“五险一金 双休 年终丰厚”"
+	},
+	{
+		"company": "君海游戏",
+		"job": "BI开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“周末双休,优秀团队,包餐,五险一金”"
+	},
+	{
+		"company": "Goat Games",
+		"job": "php开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“成长快 空间自由 专业度高”"
+	},
+	{
+		"company": "蓝月亮",
+		"job": "算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“免费宿舍,周末双休,餐费补贴,免费交通班”"
+	},
+	{
+		"company": "伊的家",
+		"job": "数据挖掘工程师 (番禺天安科技园)",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“13~17薪,团队扁平化,发展空间大”"
+	},
+	{
+		"company": "金山办公软件",
+		"job": "运维开发工程师（gz）",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“核心开发,上市公司,领导好,福利好”"
+	},
+	{
+		"company": "众聚互娱",
+		"job": "算法工程师",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“深度学习,图像处理”"
+	},
+	{
+		"company": "深圳市星际互动娱乐科...",
+		"job": "运维工程师",
+		"salary": "12k-24k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“年终双薪,带薪休假,五险一金,绩效奖金”"
+	},
+	{
+		"company": "阿里影业",
+		"job": "前端开发工程师",
+		"salary": "25k-40k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“阿里平台；优厚的薪酬待遇；学习机会多多”"
+	},
+	{
+		"company": "合众财富",
+		"job": "风控测试开发工程师",
+		"salary": "11k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,员工旅游,年底双薪，项目奖”"
+	},
+	{
+		"company": "机智云",
+		"job": "大数据开发工程师",
+		"salary": "12k-22k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险一金,绩效奖金,弹性工作制,周末双休”"
+	},
+	{
+		"company": "坏猴子网络",
+		"job": "C++开发工程师",
+		"salary": "13k-25k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“行业大牛 福利全 薪酬高 办公环境优美”"
+	},
+	{
+		"company": "触漫",
+		"job": "PHP开发工程师",
+		"salary": "8k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“周末双休,六险一金,年度旅游,年度体检”"
+	},
+	{
+		"company": "瑞卡连锁租车集团",
+		"job": "高级系统运维工程师",
+		"salary": "18k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“平台大,大牛多,好玩有趣,扁平化管理”"
+	},
+	{
+		"company": "大麦电商",
+		"job": "数据工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金 定期团建 年度旅游 带薪年假”"
+	},
+	{
+		"company": "宇泰行",
+		"job": "后端开发工程师",
+		"salary": "22k-35k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“腾讯系合作项目、公司稳定”"
+	},
+	{
+		"company": "伊智",
+		"job": "PHP中级工程师",
+		"salary": "10k-17k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“弹性工作制,季度奖金,年度加薪,五险一金”"
+	},
+	{
+		"company": "探迹科技",
+		"job": "web前端工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据AI,五险一金,期权激励,扁平管理”"
+	},
+	{
+		"company": "翼课网",
+		"job": "PHP研发工程师",
+		"salary": "12k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,团建旅游,大牛带飞”"
+	},
+	{
+		"company": "广州英赛特软件",
+		"job": "大数据开发工程师",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“薪资范畴:10k—18k/月”"
+	},
+	{
+		"company": "广州品宜",
+		"job": "小程序开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“六险一金、包午餐、年终分红、股票期权”"
+	},
+	{
+		"company": "贪玩游戏",
+		"job": "c++服务端开发工程师",
+		"salary": "12k-18k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“免费三餐,年底双薪,员工旅游,项目分红”"
+	},
+	{
+		"company": "优盟广告",
+		"job": "前端开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“多元化环境,竞争力薪资,绩效奖金”"
+	},
+	{
+		"company": "广州思迈特",
+		"job": "算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“晋升渠道 六险一金 福利多多”"
+	},
+	{
+		"company": "Esri 中国",
+		"job": "GIS开发工程师（广州）",
+		"salary": "12k-18k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“专业培训 前沿技术”"
+	},
+	{
+		"company": "景心科技",
+		"job": "C#开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“双休,环境好,福利多,领导好相处”"
+	},
+	{
+		"company": "机智云",
+		"job": "图像识别/深度学习实习生",
+		"salary": "3k-5k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“交通补贴,全勤奖金,优秀团队,转正机会”"
+	},
+	{
+		"company": "小鹏汽车",
+		"job": "自动驾驶大数据开发资深工程师（数据采集方向）",
+		"salary": "25k-35k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“明星项目”"
+	},
+	{
+		"company": "优提示",
+		"job": "PHP后台开发工程师",
+		"salary": "8k-16k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“发展前景好，氛围轻松，调薪机会多”"
+	},
+	{
+		"company": "巴图鲁公司",
+		"job": "高级算法工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“弹性上班制,双休制,氛围轻松,扁平管理”"
+	},
+	{
+		"company": "Mobvista",
+		"job": "高级测试工程师",
+		"salary": "13k-26k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“氛围好,成长空间大,包四餐,16薪”"
+	},
+	{
+		"company": "贪玩游戏",
+		"job": "安卓开发工程师（手游）",
+		"salary": "8k-16k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险一金,免费三餐,年底双薪,项目奖金”"
+	},
+	{
+		"company": "优提示",
+		"job": "PHP后台开发工程师",
+		"salary": "8k-16k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“发展前景好，氛围轻松，调薪机会多”"
+	},
+	{
+		"company": "荔枝",
+		"job": "数据仓库工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“技术大牛多 领导nice 薪酬福利好”"
+	},
+	{
+		"company": "屈臣氏中国",
+		"job": "测试工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据平台,千万级用户,试用期全薪,精英团队”"
+	},
+	{
+		"company": "新光百货",
+		"job": "技术研发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“交通便捷,月度下午茶,年度旅游,五险一金”"
+	},
+	{
+		"company": "亚美",
+		"job": "PHP高级开发工程师",
+		"salary": "15k-22k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“双休 朝九晚六 年终丰厚 提供转正”"
+	},
+	{
+		"company": "鲸鱼集团",
+		"job": "PHP高级开发工程师（后台系统）",
+		"salary": "12k-20k",
+		"experience": "经验5-10年",
+		"education": "大专",
+		"welfare": "“平台广,发展好,发展空间大,环境好”"
+	},
+	{
+		"company": "网易",
+		"job": "手游开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大”"
+	},
+	{
+		"company": "宇泰行",
+		"job": "Java工程师",
+		"salary": "10k-16k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“职位发展空间大”"
+	},
+	{
+		"company": "明动软件",
+		"job": "测试主管",
+		"salary": "12k-17k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化,技术提升,员工旅游,五险一金”"
+	},
+	{
+		"company": "万丈金数",
+		"job": "BI工程师",
+		"salary": "12k-16k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,绩效奖金,公司旅游”"
+	},
+	{
+		"company": "探迹科技",
+		"job": "后台工程师",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据AI,五险一金,期权激励,扁平管理”"
+	},
+	{
+		"company": "博智林机器人公司",
+		"job": "自然语言处理开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "硕士",
+		"welfare": "“优质团队/发展前景”"
+	},
+	{
+		"company": "小鹏汽车",
+		"job": "安全高级/资深工程师/专家",
+		"salary": "20k-40k",
+		"experience": "经验不限",
+		"education": "不限",
+		"welfare": "“前景好”"
+	},
+	{
+		"company": "智能软件产研院",
+		"job": "JAVA高级开发工程师-物联网方向",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“绩效奖金 定期体检 中科平台”"
+	},
+	{
+		"company": "昊链科技",
+		"job": "实施工程师",
+		"salary": "5k-10k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“上市公司,地铁口办公”"
+	},
+	{
+		"company": "聚焦网络集团",
+		"job": "爬虫工程师",
+		"salary": "9k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休，五险一金，带薪休假，年终表彰”"
+	},
+	{
+		"company": "汇聚支付",
+		"job": "技术支持工程师",
+		"salary": "4k-8k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“高薪福利好,丰厚年终奖,晋升平台大,气氛活跃”"
+	},
+	{
+		"company": "伊的家",
+		"job": "大数据平台架构师",
+		"salary": "20k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“13~17薪,团队扁平化,发展空间大”"
+	},
+	{
+		"company": "芹菜科技",
+		"job": "Node.js 资深后端开发工程师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“弹性工作,医保社保,周末双休,年终绩效”"
+	},
+	{
+		"company": "掌上快销",
+		"job": "高级数据仓库工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“晋升空间大,团队氛围好,节日福利,多次调薪”"
+	},
+	{
+		"company": "荔枝",
+		"job": "测试工程师 (MJ000183)",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“技术大牛多 领导nice 薪酬福利好”"
+	},
+	{
+		"company": "微咔世纪",
+		"job": "高级测试工程师",
+		"salary": "12k-18k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“六险一金,营养工作餐,萌宠陪伴,下午茶”"
+	},
+	{
+		"company": "爱拍科技",
+		"job": "C++研发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“技术气氛浓烈，福利齐全，5险一金”"
+	},
+	{
+		"company": "原力互娱",
+		"job": "c++服务端开发工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“周末双休,包三餐,福利齐全,团队牛人多”"
+	},
+	{
+		"company": "妈妈网",
+		"job": "PHP开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,年底多薪,员工旅游,定期体检”"
+	},
+	{
+		"company": "蓝月亮",
+		"job": "系统工程师（地点：天河华师地铁）",
+		"salary": "10k-18k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“双休,五险一金,平台大”"
+	},
+	{
+		"company": "广州餐道",
+		"job": "算法工程师（AI）",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“发展空间大 扁平化 福利待遇佳 五险一金”"
+	},
+	{
+		"company": "君海游戏",
+		"job": "运维开发工程师",
+		"salary": "7k-14k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“优秀平台,周末双休,绩效奖金,包餐”"
+	},
+	{
+		"company": "巴图鲁公司",
+		"job": "测试工程师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“弹性制、双休制、扁平化、oh技术杠杠~”"
+	},
+	{
+		"company": "聚焦网络集团",
+		"job": "渗透/安全测试工程师",
+		"salary": "12k-24k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休，五险一金，带薪休假，年终表彰”"
+	},
+	{
+		"company": "荔枝",
+		"job": "大数据运维工程师",
+		"salary": "13k-26k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“技术大牛多 领导nice 薪酬福利好”"
+	},
+	{
+		"company": "润和软件",
+		"job": "web前端",
+		"salary": "8k-16k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“web,h5,css3,vue”"
+	},
+	{
+		"company": "奇异果科技",
+		"job": "反作弊工程师",
+		"salary": "25k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展机会大,五险一金,项目奖金,弹性工作”"
+	},
+	{
+		"company": "乐至科技",
+		"job": "运维开发工程师（薪资与能力成正比）",
+		"salary": "13k-26k",
+		"experience": "经验5-10年",
+		"education": "大专",
+		"welfare": "“待遇优,环境好”"
+	},
+	{
+		"company": "网易",
+		"job": "手游客户端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大”"
+	},
+	{
+		"company": "广府数字",
+		"job": "技术经理",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“股票期权,高福利,公司核心骨,报酬丰厚”"
+	},
+	{
+		"company": "广州棒谷科技股份有限公司",
+		"job": "推荐算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“千万级用户 周末双休 平台大”"
+	},
+	{
+		"company": "讯码科技",
+		"job": "NLP开发工程师",
+		"salary": "13k-25k",
+		"experience": "经验1-3年",
+		"education": "硕士",
+		"welfare": "“环境赞,福利全,待遇优,牛人多”"
+	},
+	{
+		"company": "广州六合信息科技股份有限公司",
+		"job": "数据挖掘实习生",
+		"salary": "3k-4k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“周末双休 /五险一金/发展空间”"
+	},
+	{
+		"company": "智蓝",
+		"job": "系统工程师",
+		"salary": "15k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“外企,五险一金,周末双休,加班少”"
+	},
+	{
+		"company": "4399游戏",
+		"job": "C++开发（有高级开发和主程岗位）",
+		"salary": "12k-24k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“薪酬待遇好，发展空间大”"
+	},
+	{
+		"company": "第一线集团",
+		"job": "系统工程师",
+		"salary": "4k-6k",
+		"experience": "经验1年以下",
+		"education": "大专",
+		"welfare": "“氛围好 培训机会多 大咖指导 节假日福利”"
+	},
+	{
+		"company": "朗新科技",
+		"job": "算法工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“上市公司,新技术,福利健全”"
+	},
+	{
+		"company": "大麦电商",
+		"job": "数据分析师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金 定期团建 年度旅游 带薪年假”"
+	},
+	{
+		"company": "网易",
+		"job": "手游开发工程师（双端，广州，奇点事业部）",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“靠谱的团队 重点项目 极大的发挥空间”"
+	},
+	{
+		"company": "摘星者",
+		"job": "PHP 服务器开发",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“老板nice、有下午茶、”"
+	},
+	{
+		"company": "Ways",
+		"job": "初级建模师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“六险一金”"
+	},
+	{
+		"company": "图普科技（深度学习图像识别云）",
+		"job": "AI平台开发工程师",
+		"salary": "12k-24k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“人工智能,高速发展,弹性工作,周末双休”"
+	},
+	{
+		"company": "字节跳动",
+		"job": "后端开发实习生（可转正）",
+		"salary": "5k-10k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“弹性工作，免费三餐，租房补贴，休闲下午茶”"
+	},
+	{
+		"company": "要出发",
+		"job": "高级测试工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金，带薪年假，周末双休，周边旅游”"
+	},
+	{
+		"company": "广州棒谷科技股份有限公司",
+		"job": "自然语言算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“千万级用户 周末双休 平台大”"
+	},
+	{
+		"company": "小鹏汽车",
+		"job": "测试开发高级/资深工程师/专家",
+		"salary": "20k-40k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“福利待遇好，免费班车午晚餐”"
+	},
+	{
+		"company": "奇异果科技",
+		"job": "高级自动化测试工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“发展空间大,奖金多,出国旅游,测试氛围好”"
+	},
+	{
+		"company": "广州佰蜂",
+		"job": "脚本开发工程师",
+		"salary": "6k-8k",
+		"experience": "经验1年以下",
+		"education": "大专",
+		"welfare": "“晋升空间大,社保,国内外旅游”"
+	},
+	{
+		"company": "手趣",
+		"job": "运维工程师",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休,六险一金,季度奖金,年终双薪”"
+	},
+	{
+		"company": "寻趣游戏",
+		"job": "游戏数据分析师",
+		"salary": "5k-10k",
+		"experience": "经验1年以下",
+		"education": "本科",
+		"welfare": "“六险一金 餐补 全勤奖 年底双薪”"
+	},
+	{
+		"company": "易幻网络",
+		"job": "运维工程师",
+		"salary": "5k-9k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“六险一金,14薪,出国旅游,成长空间大”"
+	},
+	{
+		"company": "4399游戏",
+		"job": "C++开发（有高级开发和主程岗位）",
+		"salary": "12k-24k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“薪酬待遇好，发展空间大”"
+	},
+	{
+		"company": "贝业思",
+		"job": "算法工程师",
+		"salary": "16k-24k",
+		"experience": "经验1-3年",
+		"education": "硕士",
+		"welfare": "“大数据,扁平管理,弹性工作,互联网金融”"
+	},
+	{
+		"company": "字节跳动",
+		"job": "后端开发实习生（可转正）",
+		"salary": "5k-10k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“弹性工作，免费三餐，租房补贴，休闲下午茶”"
+	},
+	{
+		"company": "网易",
+		"job": "基础架构开发工程师(容器方向)",
+		"salary": "16k-30k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "智蓝",
+		"job": "DevOps开发工程师",
+		"salary": "20k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“不加班,假期多,待遇好”"
+	},
+	{
+		"company": "广府数字",
+		"job": "高级技术经理",
+		"salary": "18k-35k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“股票期权,高福利,公司核心骨,报酬丰厚”"
+	},
+	{
+		"company": "广州酷码教育咨询有限公司",
+		"job": "技术总监/CTO",
+		"salary": "20k-30k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“周末双休,带薪年假,五险一金”"
+	},
+	{
+		"company": "灵机文化",
+		"job": "数据产品经理",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“扁平化管理、30万无息贷款、公司期权”"
+	},
+	{
+		"company": "卓望",
+		"job": "高级Java开发工程师",
+		"salary": "25k-40k",
+		"experience": "经验10年以上",
+		"education": "本科",
+		"welfare": "“七险二金 周末双休 年度体检”"
+	},
+	{
+		"company": "飞跑科技",
+		"job": "脚本开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“开发,IT,程序猿”"
+	},
+	{
+		"company": "广州棒谷科技股份有限公司",
+		"job": "数据分析师（偏大数据）",
+		"salary": "8k-16k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“千万级用户 周末双休 平台大”"
+	},
+	{
+		"company": "宸汐网络",
+		"job": "游戏后端开发工程师",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“游戏,双休,奖金,开发”"
+	},
+	{
+		"company": "混沌科技",
+		"job": "安全渗透工程师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,员工旅游,扁平化,氛围”"
+	},
+	{
+		"company": "禾多云力",
+		"job": "运维工程师",
+		"salary": "9k-16k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“90后团队,创业型公司,新零售,电商”"
+	},
+	{
+		"company": "汇电云联",
+		"job": "高级算法工程师",
+		"salary": "25k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“技术氛围强,扁平化,氛围好,高温补贴”"
+	},
+	{
+		"company": "盛祺信息",
+		"job": "测试工程师",
+		"salary": "5k-7k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险一金 周末双休 年底双薪+年终奖金”"
+	},
+	{
+		"company": "战神联盟",
+		"job": "游戏运维工程师",
+		"salary": "13k-23k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休,年底双薪,五险一金,项目分红”"
+	},
+	{
+		"company": "字节跳动",
+		"job": "后端开发实习生（可转正）",
+		"salary": "5k-10k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“弹性工作，免费三餐，租房补贴，休闲下午茶”"
+	},
+	{
+		"company": "网易",
+		"job": "手游服务端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "景心科技",
+		"job": "测试工程师",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“双休,六险一金,环境好,福利多”"
+	},
+	{
+		"company": "蓝月亮",
+		"job": "算法工程师（AI）",
+		"salary": "25k-40k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“五险一金,有班车，提供公寓住宿，周末双休”"
+	},
+	{
+		"company": "蜂助手",
+		"job": "odoo开发工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“待遇优厚,团队活力,挑战成长,氛围活跃”"
+	},
+	{
+		"company": "虎牙信息",
+		"job": "网络虚拟化方向-软件开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“年底双薪，丰厚年终，带薪年假，上市企业”"
+	},
+	{
+		"company": "鲸鱼集团",
+		"job": "lua游戏后端开发",
+		"salary": "8k-16k",
+		"experience": "经验1年以下",
+		"education": "本科",
+		"welfare": "“福利好,发展好,发展空间大,环境好”"
+	},
+	{
+		"company": "播种网",
+		"job": "测试工程师-初级",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“母婴、健康垂直领域，专注打造产品。”"
+	},
+	{
+		"company": "伊智",
+		"job": "PHP高级开发工程师",
+		"salary": "17k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“弹性工作制,季度奖金,年度加薪,五险一金”"
+	},
+	{
+		"company": "Ways",
+		"job": "初级建模分析师（欢迎应届生应聘）",
+		"salary": "7k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“六险一金”"
+	},
+	{
+		"company": "中国电信云计算公司",
+		"job": "高级SDN/NFV开发工程师",
+		"salary": "18k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大型央企福利、薪酬对标互联网、发展空间大”"
+	},
+	{
+		"company": "广州酷码教育咨询有限公司",
+		"job": "产品研发助理",
+		"salary": "5k-7k",
+		"experience": "经验不限",
+		"education": "大专",
+		"welfare": "“周末双休、五险一金、节日福利”"
+	},
+	{
+		"company": "爱员工",
+		"job": "高级PHP开发工程师",
+		"salary": "18k-35k",
+		"experience": "经验5-10年",
+		"education": "大专",
+		"welfare": "“牛人多,架构扁平,上升空间大”"
+	},
+	{
+		"company": "泉涌信息",
+		"job": "web前端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“发展空间大,团队氛围好,员工福利多”"
+	},
+	{
+		"company": "小鹏汽车",
+		"job": "嵌入式安全高级/资深工程师/专家",
+		"salary": "20k-40k",
+		"experience": "经验不限",
+		"education": "不限",
+		"welfare": "“前景好”"
+	},
+	{
+		"company": "网易",
+		"job": "基础架构开发工程师(容器方向)",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大”"
+	},
+	{
+		"company": "字节跳动",
+		"job": "后端开发实习生（有转正机会）",
+		"salary": "5k-10k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“弹性工作，免费三餐，租房补贴”"
+	},
+	{
+		"company": "二次元科技",
+		"job": "高级后端java开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“待遇优、前景广”"
+	},
+	{
+		"company": "汇电云联",
+		"job": "运维工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“技术氛围强,扁平化,氛围好,高温补贴”"
+	},
+	{
+		"company": "北京瑞友",
+		"job": "技术/产品支持工程师",
+		"salary": "15k-25k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“五险一金、车补、餐补、满年调薪”"
+	},
+	{
+		"company": "宇态控股",
+		"job": "中级算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "硕士",
+		"welfare": "“发展平台好,活力团队,人工智能”"
+	},
+	{
+		"company": "广州趣米网络",
+		"job": "运维工程师",
+		"salary": "6k-9k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“成长速度快,上升空间大,不打卡”"
+	},
+	{
+		"company": "科大讯飞广州子公司",
+		"job": "测试工程师",
+		"salary": "6k-8k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“周末双休、福利好、有前景”"
+	},
+	{
+		"company": "傲银科技",
+		"job": "软件测试工程师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,年底奖金,团队氛围好”"
+	},
+	{
+		"company": "跑合网",
+		"job": "高级Java 开发工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“奖金 入职五险一金 周末双休 包吃班车”"
+	},
+	{
+		"company": "奇异果科技",
+		"job": "高级游戏测试",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金,月度奖金,出国旅游”"
+	},
+	{
+		"company": "星汉科技",
+		"job": "后端开发工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“公司前景好,氛围好,发展空间大,领导靠谱”"
+	},
+	{
+		"company": "要出发",
+		"job": "DBA管培生",
+		"salary": "7k-10k",
+		"experience": "经验应届毕业生",
+		"education": "不限",
+		"welfare": "“团队强大,氛围好”"
+	},
+	{
+		"company": "茉莉传媒",
+		"job": "大数据开发经理 / 架构师",
+		"salary": "20k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展前景、绩效奖金”"
+	},
+	{
+		"company": "合众财富",
+		"job": "测试工程师",
+		"salary": "9k-14k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,全勤奖,年底双薪”"
+	},
+	{
+		"company": "网易",
+		"job": "资深游戏开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“福利好，平台大”"
+	},
+	{
+		"company": "汇电云联",
+		"job": "软件测试工程师",
+		"salary": "8k-14k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“技术氛围强,扁平化,氛围好,高温补贴”"
+	},
+	{
+		"company": "图普科技（深度学习图像识别云）",
+		"job": "Docker开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“人工智能,弹性工作,周末双休,八险一金”"
+	},
+	{
+		"company": "合众财富",
+		"job": "数据挖掘工程师",
+		"salary": "13k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“行业大牛 晋升空间广”"
+	},
+	{
+		"company": "广州道然",
+		"job": "推荐算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“高薪,储备部门长,双休,有学习机会”"
+	},
+	{
+		"company": "易幻网络",
+		"job": "数据分析专员",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“氛围好,牛人多,年终奖”"
+	},
+	{
+		"company": "墨墨科技",
+		"job": "墨墨后端开发工程师 / 热爱技术，喜欢折腾",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“弹性工作,出国旅游,重视人才,6只英短”"
+	},
+	{
+		"company": "蜘点商业",
+		"job": "测试开发工程师",
+		"salary": "8k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,带薪年假,股票期权,学习氛围好”"
+	},
+	{
+		"company": "光娱游戏",
+		"job": "手游客户端Unity3D高级开发",
+		"salary": "18k-28k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“包三餐；五险一金；下午茶；有竞争力的待遇”"
+	},
+	{
+		"company": "广东东田教育集团有限公司",
+		"job": "中级运维工程师",
+		"salary": "8k-12k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,美味午餐,绩效奖金,年终奖”"
+	},
+	{
+		"company": "卓越教育集团",
+		"job": "信息安全工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“BAT队友,丰厚奖金,团队扁平,双休”"
+	},
+	{
+		"company": "极光",
+		"job": "数据挖掘师",
+		"salary": "7k-12k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化管理,节日福利,公司规模大晋升发展”"
+	},
+	{
+		"company": "铂涛旅行",
+		"job": "中间件工程师 (MJ000285)",
+		"salary": "15k-22k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,弹性工作,绩效奖金,员工旅行”"
+	},
+	{
+		"company": "名通科技",
+		"job": "软件测试工程师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“薪资高,福利好,平台稳,空间大”"
+	},
+	{
+		"company": "修炼",
+		"job": "测试工程师",
+		"salary": "9k-12k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“大咖带队,五险一金,OPEN,项目靠谱”"
+	},
+	{
+		"company": "网易",
+		"job": "游戏客户端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "广州道然",
+		"job": "高级运维工程师",
+		"salary": "15k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“高薪,晋升机会,双休,社保”"
+	},
+	{
+		"company": "傲银科技",
+		"job": "运维工程师（高薪外派东南亚）",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“高薪待遇,五险一金,海外经历”"
+	},
+	{
+		"company": "晓教育",
+		"job": "测试工程师（中/高）",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大，福利待遇好”"
+	},
+	{
+		"company": "卓越教育集团",
+		"job": "运维工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“BAT队友、团队nice、丰厚奖金、双休”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "数据分析师 (MJ001409)",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“平台大、福利多”"
+	},
+	{
+		"company": "机智云",
+		"job": "Java工程师（大数据方向）",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,绩效奖金,弹性工作制,周末双休”"
+	},
+	{
+		"company": "鲸鱼集团",
+		"job": "游戏运维工程师",
+		"salary": "8k-13k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“福利好,平台广,妹子多,环境好”"
+	},
+	{
+		"company": "影子科技",
+		"job": "大数据运维工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“待遇优厚”"
+	},
+	{
+		"company": "筷子科技",
+		"job": "资深图像算法工程师",
+		"salary": "25k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“人工智能,产品创新,公司发展快,团队年轻”"
+	},
+	{
+		"company": "星汉科技",
+		"job": "后台开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“房补,五险一金,公司旅游,地铁周边”"
+	},
+	{
+		"company": "荔枝",
+		"job": "资深业务运维工程师",
+		"salary": "15k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“技术大牛多 领导nice 薪酬福利好”"
+	},
+	{
+		"company": "广州小丑鱼",
+		"job": "（2019届）服务端开发工程师",
+		"salary": "6k-10k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“晋升快,福利待遇好”"
+	},
+	{
+		"company": "AI考拉",
+		"job": "运维工程师-（应用运维）",
+		"salary": "12k-24k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“双休,扁平化管理,团队氛围好,人性化管理”"
+	},
+	{
+		"company": "尚山优品",
+		"job": "技术总监",
+		"salary": "18k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“双休,五险一金,7.5H,高薪+绩效”"
+	},
+	{
+		"company": "网易",
+		"job": "客户端开发工程师（广州，天下事业部）",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“靠谱的团队 重点项目 极大的发挥空间”"
+	},
+	{
+		"company": "欢聚时代（YY Inc）",
+		"job": "数据挖掘工程师 (MJ000781)",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "不限",
+		"welfare": "“福利多,平台大”"
+	},
+	{
+		"company": "万丈金数",
+		"job": "高级运维开发",
+		"salary": "10k-15k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,绩效奖金,年度旅游”"
+	},
+	{
+		"company": "广汽蔚来",
+		"job": "高级测试工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“有趣，有爱，有未来”"
+	},
+	{
+		"company": "洋葱omall",
+		"job": "开发经理",
+		"salary": "20k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“福利好、前景大”"
+	},
+	{
+		"company": "广州英卓",
+		"job": "研发工程师",
+		"salary": "10k-15k",
+		"experience": "经验不限",
+		"education": "硕士",
+		"welfare": "“地磁 机器视觉 人工智能 深度学习”"
+	},
+	{
+		"company": "贝业思",
+		"job": "爬虫工程师",
+		"salary": "9k-13k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“大数据,扁平管理,弹性工作,互联网金融”"
+	},
+	{
+		"company": "筷子科技",
+		"job": "资深数据挖掘工程师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“人工智能,大数据,团队年轻,晋升空间大”"
+	},
+	{
+		"company": "华泰期货",
+		"job": "风控IT开发岗",
+		"salary": "10k-20k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“行业龙头，平台大，领导好”"
+	},
+	{
+		"company": "铠源科技",
+		"job": "高级测试工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“双休,团队融洽,高速发展,敏捷开发”"
+	},
+	{
+		"company": "百布",
+		"job": "大数据工程师",
+		"salary": "13k-26k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“不打卡,五险一金,扁平化管理,氛围轻松”"
+	},
+	{
+		"company": "中国电信云计算公司",
+		"job": "云存储高级开发工程师",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大型央企福利、薪酬对标互联网、发展空间大”"
+	},
+	{
+		"company": "白云电气",
+		"job": "电力数据分析工程师",
+		"salary": "13k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“平台好,发展空间大,团队优秀”"
+	},
+	{
+		"company": "合众财富",
+		"job": "BI工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,周末双休,全勤奖,年底双薪”"
+	},
+	{
+		"company": "拼多多",
+		"job": "大数据开发工程师",
+		"salary": "14k-28k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“扁平化管理,丰厚年终奖,发展前景好”"
+	},
+	{
+		"company": "网易",
+		"job": "客户端开发工程师（广州，大话事业部）",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“靠谱的团队 重点项目 极大的发挥空间”"
+	},
+	{
+		"company": "筷子科技",
+		"job": "系统运维工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“人工智能,团队氛围好,技术大牛,技术创新”"
+	},
+	{
+		"company": "字节跳动",
+		"job": "高级后台开发工程师",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“六险一金，弹性工作，免费三餐，租房补贴”"
+	},
+	{
+		"company": "幻动网络",
+		"job": "高级运维工程师",
+		"salary": "14k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休，七险一金，年底双薪，年终奖”"
+	},
+	{
+		"company": "屈臣氏中国",
+		"job": "高级财务经理-业务分析",
+		"salary": "10k-15k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“福利待遇好,精英团队,试用期全薪”"
+	},
+	{
+		"company": "三七互娱",
+		"job": "测试工程师",
+		"salary": "6k-12k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“一对一导师,免费下午茶,S级薪酬”"
+	},
+	{
+		"company": "光娱游戏",
+		"job": "运维开发",
+		"salary": "9k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“包三餐；五险一金；下午茶；有竞争力的待遇”"
+	},
+	{
+		"company": "数字广东（腾讯投资公司）",
+		"job": "质量开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“腾讯大牛”"
+	},
+	{
+		"company": "阳光康众",
+		"job": "高级运维工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休,弹性上下班,扁平化管理,七险一金”"
+	},
+	{
+		"company": "图普科技（深度学习图像识别云）",
+		"job": "后端服务器开发工程师(AI方向)",
+		"salary": "12k-24k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“人工智能,高速发展,弹性工作,超多福利”"
+	},
+	{
+		"company": "AAM中国",
+		"job": "测试工程师",
+		"salary": "14k-22k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“高效团队”"
+	},
+	{
+		"company": "油菜花科技",
+		"job": "性能测试工程师",
+		"salary": "9k-13k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“包吃包住,五险一金,股权激励,周末双休”"
+	},
+	{
+		"company": "广州市果肉教育科技有限公司",
+		"job": "测试工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“前瞻性产品 精英团队”"
+	},
+	{
+		"company": "鲸鱼集团",
+		"job": "高级运维工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“游戏经验”"
+	},
+	{
+		"company": "广州小丑鱼",
+		"job": "（2019届）客户端开发工程师",
+		"salary": "6k-10k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“晋升快,薪酬福利好”"
+	},
+	{
+		"company": "网易",
+		"job": "手游开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "光娱游戏",
+		"job": "手游客户端Unity3D开发",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“包三餐；五险一金；下午茶；有竞争力的待遇”"
+	},
+	{
+		"company": "派客朴食",
+		"job": "C#工程师",
+		"salary": "4k-8k",
+		"experience": "经验应届毕业生",
+		"education": "不限",
+		"welfare": "“五险一金,绩效奖金,包住,工作环境好”"
+	},
+	{
+		"company": "天源股份",
+		"job": "运维工程师",
+		"salary": "7k-10k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“java”"
+	},
+	{
+		"company": "AI考拉",
+		"job": "数据分析师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金 周末双休 年度旅游 丰盛下午茶”"
+	},
+	{
+		"company": "数鼎",
+		"job": "数据开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“朝阳行业,公司氛围佳,中午包餐”"
+	},
+	{
+		"company": "银兴",
+		"job": "数据挖掘工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大数据,数据挖掘,数据分析,数据处理”"
+	},
+	{
+		"company": "Edison Inc",
+		"job": "平台测试工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“BAT薪酬,硅谷B轮,有期权,氛围好”"
+	},
+	{
+		"company": "众聚互娱",
+		"job": "中级运维工程师",
+		"salary": "7k-12k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休 五险一金 餐费补贴”"
+	},
+	{
+		"company": "酷萌网络（LNI技术有限公司）",
+		"job": "运维工程师（海外）",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“税后工资,年假20天,公寓住宿,年底13薪”"
+	},
+	{
+		"company": "广州贺氏",
+		"job": "c++开发工程师",
+		"salary": "5k-8k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“工作氛围活跃 帅哥美女多 包食宿”"
+	},
+	{
+		"company": "百布",
+		"job": "中级测试工程师",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“不打卡,五险一金,扁平化管理,氛围轻松”"
+	},
+	{
+		"company": "掌昆游戏",
+		"job": "golang服务端",
+		"salary": "12k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“氛围简单 双薪双休 包餐 年终奖金”"
+	},
+	{
+		"company": "易幻网络",
+		"job": "平台运维工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“六险一金,14薪,双休,小伙伴多”"
+	},
+	{
+		"company": "北京瑞友",
+		"job": "大数据开发工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“五险一金,车补,餐补,弹性工作”"
+	},
+	{
+		"company": "网易",
+		"job": "安全开发工程师",
+		"salary": "20k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“福利好，大牛多，平台大，16薪”"
+	},
+	{
+		"company": "广州中铁信",
+		"job": "大数据研发工程师（前端岗）",
+		"salary": "5k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据 前端”"
+	},
+	{
+		"company": "REDEFINE",
+		"job": "测试工程师",
+		"salary": "15k-22k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“国际化互联网 BAT背景 大牛团队”"
+	},
+	{
+		"company": "德惟科技",
+		"job": "运维开发",
+		"salary": "8k-11k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“团队大型 交通便利 加班少”"
+	},
+	{
+		"company": "文远知行",
+		"job": "决策规划工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“高薪酬；三餐全包；业内大牛；人工智能”"
+	},
+	{
+		"company": "武汉佰钧成技术有限公司",
+		"job": "大数据开发",
+		"salary": "12k-22k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“6险一金,核心开发,不加班,交通便利”"
+	},
+	{
+		"company": "小鹏汽车",
+		"job": "推荐系统高级/资深工程师/专家",
+		"salary": "20k-40k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“前景好”"
+	},
+	{
+		"company": "虎牙信息",
+		"job": "AI 容器云平台高级研发工程师",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“年底双薪，丰厚年终，带薪年假，上市企业”"
+	},
+	{
+		"company": "有车以后",
+		"job": "运维工程师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金；周末双休；内容电商；C轮大平台”"
+	},
+	{
+		"company": "闪电文化",
+		"job": "php开发工程师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“五险一金、大小周、朝九晚六、加班补助等”"
+	},
+	{
+		"company": "伊智",
+		"job": "数据分析工程师",
+		"salary": "10k-16k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大数据,数据分析,数据挖掘,数据处理”"
+	},
+	{
+		"company": "探迹科技",
+		"job": "推荐算法工程师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据AI,五险一金,期权激励,扁平管理”"
+	},
+	{
+		"company": "字节跳动",
+		"job": "高级后台开发工程师",
+		"salary": "25k-50k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“六险一金，高薪期权，弹性工作，免费三餐”"
+	},
+	{
+		"company": "广州六合信息科技股份有限公司",
+		"job": "数据分析工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“周末双休 /五险一金/发展空间”"
+	},
+	{
+		"company": "聚焦网络集团",
+		"job": "PHP技术经理",
+		"salary": "18k-35k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“周末双休,五险一金,年终表彰,带薪年假”"
+	},
+	{
+		"company": "网易",
+		"job": "客户端开发工程师（广州，大话事业部）",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“靠谱的团队 重点项目 极大的发挥空间”"
+	},
+	{
+		"company": "多多村",
+		"job": "后端研发工程师",
+		"salary": "16k-22k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“公司技术大牛云集，技术氛围浓郁”"
+	},
+	{
+		"company": "赛百威",
+		"job": "Java技术经理",
+		"salary": "20k-25k",
+		"experience": "经验5-10年",
+		"education": "不限",
+		"welfare": "“周末双休,五险一金,带薪年假,节日福利”"
+	},
+	{
+		"company": "鲸鱼集团",
+		"job": "android开发工程师(SDK开发）",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“平台广,发展好,福利好,环境好”"
+	},
+	{
+		"company": "广州小迈",
+		"job": "算法工程师（电商方向）",
+		"salary": "18k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“晋升渠道宽团队好领导好弹性双休福利齐全”"
+	},
+	{
+		"company": "爱员工",
+		"job": "测试工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“牛人多,架构扁平,上升空间大”"
+	},
+	{
+		"company": "讯码科技",
+		"job": "高级运维工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“福利全,待遇优,领导好,牛人多”"
+	},
+	{
+		"company": "银兴",
+		"job": "数据分析工程师",
+		"salary": "13k-26k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大数据,数据分析,数据挖掘,数据处理”"
+	},
+	{
+		"company": "广州道然",
+		"job": "数据分析师",
+		"salary": "10k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“薪高 事少”"
+	},
+	{
+		"company": "筷子科技",
+		"job": "机器学习算法工程师",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“机器学习,团队年轻,大数据,气氛活泼”"
+	},
+	{
+		"company": "武汉佰钧成技术有限公司",
+		"job": "测试工程师",
+		"salary": "7k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大平台、项目稳定、六险一金、双休”"
+	},
+	{
+		"company": "有车以后",
+		"job": "中级软件测试工程师",
+		"salary": "9k-16k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“行业TOP,领导好,周末双休,带薪年假”"
+	},
+	{
+		"company": "易幻网络",
+		"job": "高级运维工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“薪资高福利好”"
+	},
+	{
+		"company": "文远知行",
+		"job": "后端系统架构工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“高薪酬；三餐全包；业内大牛；人工智能”"
+	},
+	{
+		"company": "广州思迈特",
+		"job": "运维工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“福利多多,领导好,美女如云,年度旅游”"
+	},
+	{
+		"company": "网易",
+		"job": "手游服务端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“发展空间大”"
+	},
+	{
+		"company": "广州小迈",
+		"job": "算法工程师机器学习方向",
+		"salary": "18k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“晋升渠道宽团队好领导好弹性双休福利齐全”"
+	},
+	{
+		"company": "MUN-U",
+		"job": "手游服务端开发工程师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“弹性工作五险一金有薪年假人才推荐年终双薪”"
+	},
+	{
+		"company": "原力互娱",
+		"job": "运维工程师",
+		"salary": "12k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休,五险一金,包三餐,优秀团队”"
+	},
+	{
+		"company": "混沌科技",
+		"job": "测试工程师",
+		"salary": "15k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“五险一金,创业公司,员工旅游,扁平化”"
+	},
+	{
+		"company": "广州多融信息科技有限公司",
+		"job": "运维工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“千万级用户,发展空间大,包午餐,下午茶”"
+	},
+	{
+		"company": "Goat Games",
+		"job": "运维工程师",
+		"salary": "8k-12k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“成长快 空间自由 专业度高”"
+	},
+	{
+		"company": "机智云",
+		"job": "运维工程师",
+		"salary": "15k-22k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金,绩效奖金,交通补贴,弹性工作制”"
+	},
+	{
+		"company": "广州推圈科技有限公司",
+		"job": "cto首席技术官",
+		"salary": "50k-100k",
+		"experience": "经验10年以上",
+		"education": "本科",
+		"welfare": "“股权”"
+	},
+	{
+		"company": "虎牙信息",
+		"job": "AI 容器云平台高级研发工程师-PaaS平台研发",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“年底双薪，丰厚年终，带薪年假，上市企业”"
+	},
+	{
+		"company": "二次元科技",
+		"job": "高级运维工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“待遇优、前景广”"
+	},
+	{
+		"company": "IFEC",
+		"job": "开发测试工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“开发测试,web测试,自动化测试,测试开发”"
+	},
+	{
+		"company": "宇态控股",
+		"job": "测试工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“平台好,技术交流多,人工智能,活力团队”"
+	},
+	{
+		"company": "要出发",
+		"job": "DBA工程师",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“团队强大,氛围好”"
+	},
+	{
+		"company": "鲸鱼集团",
+		"job": "高级运维工程师",
+		"salary": "8k-13k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“薪资丰厚,奖金高”"
+	},
+	{
+		"company": "网易",
+		"job": "游戏引擎开发工程师（3D动画系统方向）",
+		"salary": "20k-40k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "原力互娱",
+		"job": "高级运维工程师",
+		"salary": "15k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“周末双休,包三餐,五险一金,氛围轻松”"
+	},
+	{
+		"company": "探迹科技",
+		"job": "NLP算法工程师",
+		"salary": "15k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金,大数据AI,期权激励,扁平管理”"
+	},
+	{
+		"company": "OneAPM 蓝海讯通",
+		"job": "运维开发工程师",
+		"salary": "10k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“上升空间大，年终福利，补充医疗”"
+	},
+	{
+		"company": "作文纸条",
+		"job": "测试主管",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“顶级风投、爆发式增长、周末双休、六险一金”"
+	},
+	{
+		"company": "乐至科技",
+		"job": "运维工程师",
+		"salary": "7k-12k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“linux,运维开发”"
+	},
+	{
+		"company": "博智税通",
+		"job": "运维工程师",
+		"salary": "7k-10k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金 双休 员工旅游 节日福利”"
+	},
+	{
+		"company": "路客",
+		"job": "高级测试工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“A轮数亿,共享民宿,发展迅速,五险一金”"
+	},
+	{
+		"company": "爱范儿",
+		"job": "Ifanr SRE 工程师 (系统工程方向)",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“大牛多,环境好,周末双休,五险一金”"
+	},
+	{
+		"company": "白云电气",
+		"job": "机器学习算法工程师（集团）",
+		"salary": "15k-25k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“大数据平台”"
+	},
+	{
+		"company": "智度科技",
+		"job": "爬虫工程师",
+		"salary": "15k-25k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休、弹性打卡、团队氛围好、奖金丰厚”"
+	},
+	{
+		"company": "花生日记APP",
+		"job": "资深运维工程师",
+		"salary": "15k-20k",
+		"experience": "经验5-10年",
+		"education": "大专",
+		"welfare": "“运维工程师,数据分析,Linu”"
+	},
+	{
+		"company": "小鹏汽车",
+		"job": "后台测试高级工程师/专家",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“有前景”"
+	},
+	{
+		"company": "贝锐oray",
+		"job": "数据分析师",
+		"salary": "8k-12k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“发展前景、周末双休、餐补、带薪年假”"
+	},
+	{
+		"company": "中国电信云计算公司",
+		"job": "高级SDN/NFV开发工程师",
+		"salary": "20k-40k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“扁平化管理、六险二金、有市场竞争力薪酬”"
+	},
+	{
+		"company": "网易",
+		"job": "手游客户端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "Codrim",
+		"job": "游戏前端程序工程师",
+		"salary": "6k-8k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“五险一金，双休，发展前景广，福利待遇好”"
+	},
+	{
+		"company": "武汉佰钧成技术有限公司",
+		"job": "中级测试工程师",
+		"salary": "13k-18k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“性能测试、自动化测试、脚本”"
+	},
+	{
+		"company": "Pony.ai 小马智行",
+		"job": "高级算法工程师- 感知",
+		"salary": "25k-50k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“自动驾驶”"
+	},
+	{
+		"company": "晓教育",
+		"job": "产品测试",
+		"salary": "8k-15k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“发展空间大，福利待遇好”"
+	},
+	{
+		"company": "路客",
+		"job": "测试工程师",
+		"salary": "10k-18k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“A轮数亿,共享民宿,期权激励,弹性办公”"
+	},
+	{
+		"company": "有车以后",
+		"job": "运维工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“周末双休、 发展性好、六险一金、氛围活跃”"
+	},
+	{
+		"company": "PPmoney互联网金融平台",
+		"job": "高级大数据开发工程师 (MJ001084)",
+		"salary": "20k-35k",
+		"experience": "经验3-5年",
+		"education": "不限",
+		"welfare": "“福利好,平台大,技术培训多,技术氛围好”"
+	},
+	{
+		"company": "高清视信",
+		"job": "软件测试工程师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“弹性工作制,双休,五险一金,年度旅游”"
+	},
+	{
+		"company": "光娱游戏",
+		"job": "游戏运维（中级）",
+		"salary": "8k-14k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“包三餐；五险一金；下午茶；有竞争力的待遇”"
+	},
+	{
+		"company": "源慧信息",
+		"job": "测试工程师",
+		"salary": "10k-17k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“锻炼机会多,团队沟通顺,发展机会多”"
+	},
+	{
+		"company": "ZAKER",
+		"job": "高级测试工程师",
+		"salary": "10k-14k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“弹性上班,大咖分享,福利好,氛围好”"
+	},
+	{
+		"company": "虎牙信息",
+		"job": "软件开发工程师（音视频剪辑加工）",
+		"salary": "18k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“年底双薪，丰厚年终，带薪年假，上市企业”"
+	},
+	{
+		"company": "茉莉传媒",
+		"job": "数据分析师",
+		"salary": "8k-15k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“行业大咖,阿里巴巴,新媒体广告”"
+	},
+	{
+		"company": "逗号智能",
+		"job": "人脸识别算法工程师",
+		"salary": "15k-25k",
+		"experience": "经验应届毕业生",
+		"education": "硕士",
+		"welfare": "“双休,六险一金,弹性工作,扁平管理”"
+	},
+	{
+		"company": "网易",
+		"job": "手游服务端开发工程师",
+		"salary": "18k-35k",
+		"experience": "经验不限",
+		"education": "本科",
+		"welfare": "“平台大,福利好,待遇优,16薪”"
+	},
+	{
+		"company": "广州华胜企业管理服务有限公司",
+		"job": "PaaS研发工程师",
+		"salary": "15k-25k",
+		"experience": "经验5-10年",
+		"education": "本科",
+		"welfare": "“高薪酬 福利好 领导好”"
+	},
+	{
+		"company": "三七互娱",
+		"job": "游戏运维工程师",
+		"salary": "10k-15k",
+		"experience": "经验应届毕业生",
+		"education": "本科",
+		"welfare": "“一对一导师,免费下午茶,S级薪酬”"
+	},
+	{
+		"company": "墨墨科技",
+		"job": "墨墨后端开发工程师",
+		"salary": "15k-30k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“弹性工作,出国旅游,重视人才,六只英短”"
+	},
+	{
+		"company": "武汉佰钧成技术有限公司",
+		"job": "高级测试工程师",
+		"salary": "15k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“六险一金 年终奖 地铁口附近 高并发项目”"
+	},
+	{
+		"company": "合众财富",
+		"job": "数据建模",
+		"salary": "13k-20k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“行业大牛 晋升空间广”"
+	},
+	{
+		"company": "有米科技",
+		"job": "后端工程师",
+		"salary": "10k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“核心团队 晋升空间大 六险一金 餐补”"
+	},
+	{
+		"company": "云徙科技",
+		"job": "计算机视觉工程师",
+		"salary": "20k-30k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“快速发展,A轮融资,五险一金”"
+	},
+	{
+		"company": "广州银行信用卡中心",
+		"job": "数据开发工程师",
+		"salary": "20k-35k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“带薪年假,五险一金,发展空间大,周末双休”"
+	},
+	{
+		"company": "朗新科技",
+		"job": "大数据工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“上市公司,新技术,福利健全”"
+	},
+	{
+		"company": "Codrim",
+		"job": "高级游戏前端程序工程师",
+		"salary": "10k-15k",
+		"experience": "经验3-5年",
+		"education": "大专",
+		"welfare": "“五险一金，双休，发展前景广，福利待遇好”"
+	},
+	{
+		"company": "智能软件产研院",
+		"job": "高级运维工程师",
+		"salary": "12k-20k",
+		"experience": "经验3-5年",
+		"education": "本科",
+		"welfare": "“绩效奖金 定期体检 中科平台 年底双薪”"
+	},
+	{
+		"company": "智悅网络",
+		"job": "中级PHP开发工程师",
+		"salary": "6k-10k",
+		"experience": "经验1-3年",
+		"education": "本科",
+		"welfare": "“晋升空间,五险一金,年终奖,扁平管理”"
+	},
+	{
+		"company": "好悦游戏",
+		"job": "游戏运维工程师",
+		"salary": "6k-12k",
+		"experience": "经验1-3年",
+		"education": "大专",
+		"welfare": "“游戏运维,游戏开发,手游,Linux”"
+	},
+	{
+		"company": "柏视医疗",
+		"job": "深度学习算法工程师（新产品组）",
+		"salary": "20k-40k",
+		"experience": "经验3-5年",
+		"education": "硕士",
+		"welfare": "“大牛云集,高速发展,技术氛围好,弹性工作”"
+	}
+]
